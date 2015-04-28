@@ -1,1 +1,1 @@
-# meteor-wheelnav-test
+# demo-meteor-wheelnav
